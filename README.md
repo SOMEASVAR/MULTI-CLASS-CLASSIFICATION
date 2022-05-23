@@ -49,6 +49,13 @@ pyplot.legend()
 pyplot.show()
 
 ```
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 ## Output:
 ![multi class classification plot](1.jpg)
